@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Vincent",
+      "last_name": "Jong de",
+      "skills":["😭","👎"],
+      "email": "vj@valkwelding.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Belleblazer4life",
+      "last_name": "©️2021",
+      "skils":["🦸🏿‍♂️","🤓"],
+      "email": "belleblazer4life@gmail.com"
+    }
+  ]
+ 
+}
